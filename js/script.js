@@ -1,6 +1,6 @@
 
 
-alert("Bienvenido a supermercado Carrefour: \nIngrese su productos y respectivos valores")
+alert("Bienvenido a supermercado Carrefour: \n\nIngrese su productos y respectivos valores para calcular su carrito.")
 const productos = [];
 
 const agregarProducto = () => {
